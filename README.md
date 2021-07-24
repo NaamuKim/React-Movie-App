@@ -1,4 +1,4 @@
-# React-Movie-App
+# simple movie app using react
 ## Grid-layout!
 ### Using Movie API
 #### Using Axios
